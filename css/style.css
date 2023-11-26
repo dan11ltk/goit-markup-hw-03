@@ -74,7 +74,6 @@ a:-webkit-any-link{
 .menu{
     display: flex;
     gap: 40px;
-    margin-left: 43px;
     align-items: center;
 }
 .menu-link{
@@ -85,7 +84,6 @@ a:-webkit-any-link{
     letter-spacing: 0.02em;
     text-decoration: none;
     display: block;
-    padding: 24px 0;
 }
 .menu-link:hover,
 .menu-link:focus{
@@ -115,7 +113,6 @@ text-decoration: none;
 /* Main content */
 .first-section{
     background-color: #2E2F42;
-    height: 600px;
     display: flex;
     padding: 188px 0 188px;
     align-items: center;
