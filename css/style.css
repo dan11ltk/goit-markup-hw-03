@@ -68,13 +68,14 @@ a:-webkit-any-link{
     display: flex;
     flex-grow: 1;
     align-items: center;
-    padding: 24px 0 24px;
+    
     margin-right: auto;
 }
 .menu{
     display: flex;
     gap: 40px;
     align-items: center;
+    padding: 24px 0 24px;
 }
 .menu-link{
     color: #2E2F42;
